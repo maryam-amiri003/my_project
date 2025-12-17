@@ -62,4 +62,4 @@ foreach ($countries as $country ){
 
 </div>
 </body>
-</html
+</html>
